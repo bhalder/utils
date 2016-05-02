@@ -12,6 +12,6 @@ echo "## Wrong Parameter ##" >> $filename
 ./elf_parser abc>> $filename
 
 echo "## Correct Parameter ##" >> $filename
-./elf_parser test_prog>> $filename
+./elf_parser test_prog >> $filename
 echo "## DONE ##" >> $filename
 
