@@ -1,0 +1,9 @@
+Testing Command Line
+## No Parameter ##
+
+Error. Usage ./elf_parser <binary>
+## Wrong Parameter ##
+
+Error. File not found.
+## Correct Parameter ##
+## DONE ##
